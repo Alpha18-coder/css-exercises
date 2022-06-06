@@ -61,3 +61,10 @@ button {
   opacity: 30%;
 }
 
+/* My Solution */
+
+.popup-modal {
+  transition: transform .8s ease-in-out, opacity .4s ease;
+  transform: translate(-50%, -50%);
+}
+
